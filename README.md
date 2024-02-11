@@ -1,5 +1,4 @@
 # gha-dockerpy-hola
-# gha-dockerpy-dice
 Este repositorio forma parte de los ejemplos del curso de udemy [Domina Github Actions](https://www.udemy.com/course/domina-github-actions/?referralCode=CBFBAF72C38BE758CFE1)
 
 Esta acción de github es un ejemplo de acción personalizada usando docker y python.
